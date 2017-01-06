@@ -1,0 +1,1 @@
+<img src="http://markdown-here.com/img/icon256.png">
